@@ -10,3 +10,4 @@ texlive-science
 texlive-xetex
 cm-super
 libgfortran5
+gmsh
